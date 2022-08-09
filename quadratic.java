@@ -2,9 +2,9 @@ public class quadratic {
     public static void main(String[] args) {
         int a,b,c;
         double d,x1,x2;
-        a=1;
+        a=4;
         b=0;
-        c=-9;
+        c=-7;
         d=(b*b)-(4*a*c);
         if(d<0){
             System.out.println("roots are imaginary");
